@@ -7,6 +7,7 @@ The dependancy is snmp
 >Snmpwalk -v 1 -c public 192.168.0.110
 >
 >Snmpget -v 1 -c private 192.168.0.110 iso.3.6.1.2.1.1.6.0 
+>
 >Snmpset -v 1 -c private 192.168.0.110 iso.3.6.1.2.1.1.6.0 s setvalue
 
 ## ProfiNET
