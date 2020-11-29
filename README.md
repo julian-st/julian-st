@@ -1,6 +1,11 @@
-# Network
+# Hi and welcome to my github repo
 
-## SNMP
+I am Julian and love programming.
+
+<img src="https://simpleicons.org/icons/cplusplus.svg" alt="cplusplus" width="50"/><img src="https://simpleicons.org/icons/angular.svg" alt="angular" width="50"/><img src="https://simpleicons.org/icons/php.svg" alt="php" width="50"/><img src="https://simpleicons.org/icons/java.svg" alt="java" width="50"/><img src="https://simpleicons.org/icons/python.svg" alt="python" width="50"/><img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="50"/>
+## Network
+
+### SNMP
 
 The dependancy is snmp 
 
@@ -10,7 +15,7 @@ The dependancy is snmp
 >
 >Snmpset -v 1 -c private 192.168.0.110 iso.3.6.1.2.1.1.6.0 s setvalue
 
-## ProfiNET
+### ProfiNET
 
 In order to set the IP adress of a device with the MAC adress 00:19:31:3F:FF:37 run this command
 
