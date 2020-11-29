@@ -1,6 +1,6 @@
 # Hi and welcome to my github repo
 
-I am Julian and love programming.
+I am ![Julian](https://shields.io/badge/-julian-julian "julian") and love programming.
 
 <img src="https://simpleicons.org/icons/cplusplus.svg" alt="cplusplus" width="50"/><img src="https://simpleicons.org/icons/angular.svg" alt="angular" width="50"/><img src="https://simpleicons.org/icons/php.svg" alt="php" width="50"/><img src="https://simpleicons.org/icons/java.svg" alt="java" width="50"/><img src="https://simpleicons.org/icons/python.svg" alt="python" width="50"/><img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="50"/>
 ## Network
