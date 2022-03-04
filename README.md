@@ -9,11 +9,11 @@ I am ![Julian](https://shields.io/badge/-julian-julian "julian") and love progra
 
 The dependancy is snmp 
 
->Snmpwalk -v 1 -c public 192.168.0.110
+>snmpwalk -v 1 -c public 192.168.0.1
 >
->Snmpget -v 1 -c private 192.168.0.110 iso.3.6.1.2.1.1.6.0 
+>snmpget -v 1 -c private 192.168.0.1 iso.3.6.1.2.1.1.6.0 
 >
->Snmpset -v 1 -c private 192.168.0.110 iso.3.6.1.2.1.1.6.0 s setvalue
+>snmpset -v 1 -c private 192.168.0.1 iso.3.6.1.2.1.1.6.0 s setvalue
 
 ### ProfiNET
 
