@@ -9,14 +9,14 @@ SLOTS_PER_EPOCH = 32
 SECONDS_PER_SLOT = 12
 
 
-def main(validators_indices, eth2_api_url="http://localhost/eth/v1/"):
+def main(validators_indices, eth2_api_url="http://localhost:5052/eth/v1/"):
     def api_get(endpoint):
         return requests.get(f"{eth2_api_url}{endpoint}").json()
 
-    def api_post(endpoint, data2):
+    def api_post(endpoint, payload):
         headers = {'Content-type': 'application/json'}
-        k = requests.post(f"{eth2_api_url}{endpoint}", data=data2, headers=headers)
-        return k.json()
+        post_data = requests.post(f"{eth2_api_url}{endpoint}", data=payload, headers = headers)
+        return post_data.json()
 
     head_slot = int(api_get("beacon/headers/head")["data"]["header"]["message"]["slot"])
     epoch = int(api_get("beacon/states/head/finality_checkpoints")["data"]["finalized"]["epoch"])
