@@ -4,7 +4,7 @@
 - :man_student: I'm in search for code challenges
 - :man_technologist: Contact me [@LinkedIn](https://www.linkedin.com/in/juliansteinbock/)
 - 🗣️ I speak German<img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-svg/de.svg" alt="de" width="20"/>, English<img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-svg/gb.svg" alt="english" width="20"/> and a little bit of Spanish<img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-svg/es.svg" alt="esp" width="20"/> and French<img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-svg/fr.svg" alt="fr" width="20"/>
-- :globe_with_meridians: You should also definitely check my [dev.to profile](https://dev.to/julianst)
+- :globe_with_meridians: You should also definitely check my [dev.to profile](https://dev.to/julianst) or my [blog](https://kindle-new.blogspot.com/)
 
 ### Preferred tech
 
