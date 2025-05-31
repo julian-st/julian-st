@@ -8,7 +8,10 @@
 
 ### Preferred tech
 
-<img src="https://simpleicons.org/icons/cplusplus.svg" alt="cplusplus" width="50"/><img src="https://simpleicons.org/icons/apachemaven.svg" alt="maven" width="50"/><img src="https://simpleicons.org/icons/springboot.svg" alt="springboot" width="50"/><img src="https://simpleicons.org/icons/angular.svg" alt="angular" width="50"/><img src="https://simpleicons.org/icons/php.svg" alt="php" width="50"/><img src="https://simpleicons.org/icons/python.svg" alt="python" width="50"/><img src="https://simpleicons.org/icons/kotlin.svg" alt="kotlin" width="50"/><img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="50"/><img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" width="50"/><img src="https://simpleicons.org/icons/selenium.svg" alt="selenium" width="50"/>
+<img src="https://simpleicons.org/icons/cplusplus.svg" alt="cplusplus" width="50"/><img src="https://simpleicons.org/icons/sharp.svg" alt="csharp" width="50"/><img src="https://simpleicons.org/icons/apachemaven.svg" alt="maven" width="50"/><img src="https://simpleicons.org/icons/springboot.svg" alt="springboot" width="50"/><img src="https://simpleicons.org/icons/angular.svg" alt="angular" width="50"/><img src="https://simpleicons.org/icons/php.svg" alt="php" width="50"/><img src="https://simpleicons.org/icons/python.svg" alt="python" width="50"/><img src="https://simpleicons.org/icons/kotlin.svg" alt="kotlin" width="50"/><img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="50"/><img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" width="50"/>
+<br><img src="https://simpleicons.org/icons/selenium.svg" alt="selenium" width="25"/>
+<img src="https://simpleicons.org/icons/dotnet.svg" alt="dotnet" width="25"/>
+<img src="https://simpleicons.org/icons/influxdb.svg" alt="influxdb" width="25"/>
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
