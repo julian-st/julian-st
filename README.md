@@ -8,7 +8,12 @@
 
 ### Preferred tech
 
+<table>
+  <tr style="background-color: white;">
+    <td style="background-color: white;">
 <img src="https://simpleicons.org/icons/cplusplus.svg" alt="cplusplus" width="50"/><img src="https://simpleicons.org/icons/sharp.svg" alt="csharp" width="50"/><img src="https://simpleicons.org/icons/apachemaven.svg" alt="maven" width="50"/><img src="https://simpleicons.org/icons/springboot.svg" alt="springboot" width="50"/><img src="https://simpleicons.org/icons/angular.svg" alt="angular" width="50"/><img src="https://simpleicons.org/icons/php.svg" alt="php" width="50"/><img src="https://simpleicons.org/icons/python.svg" alt="python" width="50"/><img src="https://simpleicons.org/icons/kotlin.svg" alt="kotlin" width="50"/><img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="50"/><img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" width="50"/>
+    </td></tr></table>
+
 <br><img src="https://simpleicons.org/icons/selenium.svg" alt="selenium" width="25"/>
 <img src="https://simpleicons.org/icons/dotnet.svg" alt="dotnet" width="25"/>
 <img src="https://simpleicons.org/icons/influxdb.svg" alt="influxdb" width="25"/>
